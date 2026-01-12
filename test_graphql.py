@@ -27,9 +27,9 @@ def test_system_energy_stats_summary():
     """
 
     variables = {
-        "systemId": "27c8c253-dde6-4167-8fbd-e10e3ed",
-        "start": 1767070020000,
-        "end": 1767077220000
+        "systemId": "85a3a52f-7ed6-41f1-ad2e-850442a1f172",
+        "start": 1767266485000,
+        "end": 1767871285000
     }
 
     response = requests.post(
